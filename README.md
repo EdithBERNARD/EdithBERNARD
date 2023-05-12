@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/EdithBERNARD/EdithBERNARD/blob/master/img/maison.jpg)
+![Cover](https://github.com/EdithBERNARD/EdithBERNARD/../img/maison.jpg)
 <!--
 **EdithBERNARD/EdithBERNARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
