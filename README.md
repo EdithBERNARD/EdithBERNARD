@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - frontOffice (des intégrations statiques avaient été fournies en HTML/CSS ) avec twig et utilisation de boostrap pour la barre de navigation et les formulaires
 - BackOffice Symfo, doctrine
 - la BDD a été retravaillée, les entitées et leurs relations ont entièrement été crées sur le terminal avec des migrations. 
+
+
+
+
+<!-- https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility -->
