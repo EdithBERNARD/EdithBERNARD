@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## recherche d'une entreprise pour faire une alternance CDA 
+- Début de l'alternance mi-octobre 2023, pour 18 mois, possibilité de commencer avant avec un stage.
 <!-- ![Cover](https://github.com/EdithBERNARD/EdithBERNARD/../img/maison.jpg) -->
 <!--
 **EdithBERNARD/EdithBERNARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
