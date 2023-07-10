@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+## recherche d'une entreprise pour faire une alternance CDA 
 <!-- ![Cover](https://github.com/EdithBERNARD/EdithBERNARD/../img/maison.jpg) -->
 <!--
 **EdithBERNARD/EdithBERNARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
