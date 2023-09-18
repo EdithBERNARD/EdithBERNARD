@@ -2,7 +2,7 @@
 
 ## recherche d'une entreprise pour faire une alternance CDA 
 - Début de l'alternance mi-janvier 2024, pour 18 mois, possibilité de commencer avant avec un stage.
-- voici mon portfolio : edith-portfolio.surge.sh
+- voici mon portfolio : [edith-portfolio.surge.sh](https://edith-portfolio.surge.sh/)
 <!-- ![Cover](https://github.com/EdithBERNARD/EdithBERNARD/../img/maison.jpg) -->
 <!--
 **EdithBERNARD/EdithBERNARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
