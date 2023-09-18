@@ -23,13 +23,15 @@ Here are some ideas to get you started:
  - équipe de 4 développeurs "symfony"
  - 4 semaines intensives
  - site répertoriant les meilleurs citations de la série "kaamelott", des informations sur la série et quizz de connaissance.
+ - https://edithbzh.ovh/
 
 ## projet GOT-symfo : 
 - l'exercice nous avait été proposé en laravel mais passé en symfo et aprofondi au fur et à mesure des notions vues pendant la spécialisation
 - travail en autonomie pendant la spécialisation en symfony
 - frontOffice (des intégrations statiques avaient été fournies en HTML/CSS ) avec twig et utilisation de boostrap pour la barre de navigation et les formulaires
 - BackOffice Symfo, doctrine
-- la BDD a été retravaillée, les entitées et leurs relations ont entièrement été crées sur le terminal avec des migrations. 
+- la BDD a été retravaillée, les entitées et leurs relations ont entièrement été crées sur le terminal avec des migrations.
+- https://www.edithbzh.ovh/
 
 
 
